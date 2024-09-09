@@ -1,0 +1,9 @@
+# Python
+*.pyc
+__pycache__/
+
+# Logs
+spiderscan.log
+
+# Virtual environment
+venv/
